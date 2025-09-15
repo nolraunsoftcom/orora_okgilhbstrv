@@ -74,9 +74,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.orora.jjemskview"
+    namespace "com.orora.okgilhbstrv"
     defaultConfig {
-        applicationId "com.orora.jjemskview"
+        applicationId "com.orora.okgilhbstrv"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 2025083001

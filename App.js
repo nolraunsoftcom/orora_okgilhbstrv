@@ -19,9 +19,9 @@ import notifee, {EventType} from '@notifee/react-native';
 import Share from 'react-native-share';
 import RefreshController from './src/refreshController';
 
-const baseUrl = 'https://witdeal-067.members.markets';
-const andoridId = 'com.orora.jjemskview'; // 정자이목 SK뷰
-const iosId = '6752551624'; // 정자이목 SK뷰
+const baseUrl = 'https://witdeal-066.members.markets';
+const andoridId = 'com.orora.okgilhbstrv'; // 옥길호반 센트리뷰
+const iosId = '6752551499'; // 옥길호반 센트리뷰
 
 const Webview = ({myWebWiew, onScroll = () => {}}) => {
   const [sourceUrl, setsourceUrl] = useState(baseUrl);

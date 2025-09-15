@@ -3,11 +3,11 @@
 ### 1. 프로젝트 ID 변경
 
 - com.orora.\*
-  com.orora.jjemskview
+  com.orora.okgilhbstrv
 
-6752551624
-정자이목 SK뷰
-https://witdeal-067.members.markets
+6752551499
+옥길호반 센트리뷰
+https://witdeal-066.members.markets
 
 ### 앱 아이콘 변경
 
@@ -22,15 +22,15 @@ node \_script/icon
 ---
 
 윗딜브로스 모바일웹
-https://witdeal-067.members.markets/app/set/privacy.php
-https://witdeal-067.members.markets/app/set/set.php
+https://witdeal-066.members.markets/app/set/privacy.php
+https://witdeal-066.members.markets/app/set/set.php
 
 태성
 김
 ororapf@naver.com
 +82-1661-0339
 
-https://witdeal-067.members.markets
+https://witdeal-066.members.markets
 
 34778DGAUJ
 

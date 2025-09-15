@@ -538,7 +538,7 @@
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = C3N8GKX588;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = pungmuprugio/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "정자이목 SK뷰";
+				INFOPLIST_KEY_CFBundleDisplayName = "옥길호반 센트리뷰";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -578,7 +578,7 @@
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = C3N8GKX588;
 				INFOPLIST_FILE = pungmuprugio/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "정자이목 SK뷰";
+				INFOPLIST_KEY_CFBundleDisplayName = "옥길호반 센트리뷰";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -590,7 +590,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.orora.jjemskview;
+				PRODUCT_BUNDLE_IDENTIFIER = com.orora.okgilhbstrv;
 				PRODUCT_NAME = pungmuprugio;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = jjemskview_prod;

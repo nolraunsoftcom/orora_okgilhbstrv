@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.orora.jjemskview</string>
+	<string>com.orora.okgilhbstrv</string>
 	<key>PROJECT_ID</key>
 	<string>gsmgbh</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:179190985652:ios:814f4e8acf6bb27fe8f8e1</string>
+	<string>1:179190985652:ios:0024543213d96df9e8f8e1</string>
 </dict>
 </plist>

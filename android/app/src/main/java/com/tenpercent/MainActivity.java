@@ -1,4 +1,4 @@
-package com.orora.jjemskview;
+package com.orora.okgilhbstrv;
 
 
 import android.os.Bundle;
