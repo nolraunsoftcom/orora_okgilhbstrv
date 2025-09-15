@@ -1,0 +1,200 @@
+{
+  "project_info": {
+    "project_number": "179190985652",
+    "project_id": "gsmgbh",
+    "storage_bucket": "gsmgbh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179190985652:android:7d29bba12f2148efe8f8e1",
+        "android_client_info": {
+          "package_name": "com.orora.dohwatseph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXXvFnmQgtdOD-noHorCC7LVE170uczQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179190985652:android:69712ce1c7912533e8f8e1",
+        "android_client_info": {
+          "package_name": "com.orora.gsmgbh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXXvFnmQgtdOD-noHorCC7LVE170uczQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179190985652:android:bb73cb73b16654fbe8f8e1",
+        "android_client_info": {
+          "package_name": "com.orora.jangdangumi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXXvFnmQgtdOD-noHorCC7LVE170uczQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179190985652:android:fe6ee32175cbc2b3e8f8e1",
+        "android_client_info": {
+          "package_name": "com.orora.jjemskview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXXvFnmQgtdOD-noHorCC7LVE170uczQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179190985652:android:568582c39dcea55ee8f8e1",
+        "android_client_info": {
+          "package_name": "com.orora.minrackhb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXXvFnmQgtdOD-noHorCC7LVE170uczQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179190985652:android:51a5261941b82f9ae8f8e1",
+        "android_client_info": {
+          "package_name": "com.orora.okgilhbstrv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXXvFnmQgtdOD-noHorCC7LVE170uczQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179190985652:android:c105c664edb8da63e8f8e1",
+        "android_client_info": {
+          "package_name": "com.orora.osansegyoeph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXXvFnmQgtdOD-noHorCC7LVE170uczQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179190985652:android:f87776368879cabee8f8e1",
+        "android_client_info": {
+          "package_name": "com.orora.jjemskview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXXvFnmQgtdOD-noHorCC7LVE170uczQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179190985652:android:3657a9806e66d7aae8f8e1",
+        "android_client_info": {
+          "package_name": "com.orora.teajeonhsnts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXXvFnmQgtdOD-noHorCC7LVE170uczQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179190985652:android:81f7335c946eae63e8f8e1",
+        "android_client_info": {
+          "package_name": "com.orora.yhskskyv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXXvFnmQgtdOD-noHorCC7LVE170uczQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
