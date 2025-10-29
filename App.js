@@ -1,3 +1,4 @@
+import 'react-native-url-polyfill/auto';
 import messaging from '@react-native-firebase/messaging';
 import React, {useEffect, useRef, useState} from 'react';
 import {
@@ -18,6 +19,7 @@ import {displayNotification} from './src/utils/displayNotification';
 import notifee, {EventType} from '@notifee/react-native';
 import Share from 'react-native-share';
 import RefreshController from './src/refreshController';
+import {useAppSchemaLink} from './src/useAppschemaLink';
 
 const baseUrl = 'https://witdeal-066.members.markets';
 const andoridId = 'com.orora.okgilhbstrv'; // 옥길호반 센트리뷰
@@ -62,6 +64,12 @@ const Webview = ({myWebWiew, onScroll = () => {}}) => {
     'ktauthexternalcall://',
     'upluscorporation://',
   ]);
+
+  useAppSchemaLink({
+    setsourceUrl,
+    baseUrl,
+    myWebWiew,
+  });
 
   const onShouldStartLoadWithRequest = event => {
     if (
@@ -313,7 +321,7 @@ const Webview = ({myWebWiew, onScroll = () => {}}) => {
 
         if (detail.notification?.data.click_action) {
           const newsourceUrl = baseUrl + detail.notification?.data.click_action;
-          myWebWiew.current.injectJavaScript(baseUrl`
+          myWebWiew.current.injectJavaScript(`
               window.location.href = "${newsourceUrl}";
             `);
         }
