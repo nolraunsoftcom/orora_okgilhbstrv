@@ -79,8 +79,8 @@ android {
         applicationId "com.orora.okgilhbstrv"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 2025100801
-        versionName "1.7.0"
+        versionCode 2025111901
+        versionName "1.7.1"
     }
     signingConfigs {
         debug {
