@@ -538,13 +538,13 @@
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = C3N8GKX588;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = pungmuprugio/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "옥길호반 센트리뷰";
+				INFOPLIST_KEY_CFBundleDisplayName = "옥길 호반센트브힐";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.7.0;
+				MARKETING_VERSION = 1.7.1;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -578,13 +578,13 @@
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = C3N8GKX588;
 				INFOPLIST_FILE = pungmuprugio/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "옥길호반 센트리뷰";
+				INFOPLIST_KEY_CFBundleDisplayName = "옥길 호반센트브힐";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.7.0;
+				MARKETING_VERSION = 1.7.1;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",

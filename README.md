@@ -6,7 +6,7 @@
   com.orora.okgilhbstrv
 
 6752551499
-옥길호반 센트리뷰
+옥길 호반센트브힐
 https://witdeal-066.members.markets
 
 ### 앱 아이콘 변경

@@ -22,8 +22,8 @@ import RefreshController from './src/refreshController';
 import {useAppSchemaLink} from './src/useAppschemaLink';
 
 const baseUrl = 'https://witdeal-066.members.markets';
-const andoridId = 'com.orora.okgilhbstrv'; // 옥길호반 센트리뷰
-const iosId = '6752551499'; // 옥길호반 센트리뷰
+const andoridId = 'com.orora.okgilhbstrv'; // 옥길 호반센트브힐
+const iosId = '6752551499'; // 옥길 호반센트브힐
 
 const Webview = ({myWebWiew, onScroll = () => {}}) => {
   const [sourceUrl, setsourceUrl] = useState(baseUrl);

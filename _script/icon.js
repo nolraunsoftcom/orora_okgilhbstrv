@@ -102,7 +102,7 @@ async function generateAndroidIcon(inputImagePath) {
   }
 }
 
-const imagePath = path.join(__dirname, 'icon.jpg');
+const imagePath = path.join(__dirname, 'icon.jpeg');
 if (fs.existsSync(imagePath)) {
   generateIOSIcons(imagePath);
   generateAndroidIcon(imagePath);
